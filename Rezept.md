@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \documentclass[10pt,a4paper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage{amsmath}
@@ -14,3 +15,8 @@ added gitinfo test
 \subsection*{Zutaten}
 \subsection*{Zubereitung}
 \end{document}
+=======
+# Rezept
+## Zutaten
+## Zubereitung
+>>>>>>> bf00894eef001affb7e22a343fe254a4d408910c
