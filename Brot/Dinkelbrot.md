@@ -1,3 +1,7 @@
+Title: Schnelles Dinkelbrot
+Author: Matthias
+Date: March, 2013
+
 # Schnelles Dinkelbrot
 ## Zutaten
 - 500g Dinkelvollkornmehl
